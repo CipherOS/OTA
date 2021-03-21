@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Lavender - Redmi Note 7/7S
+Device maintainer: Brian Jose
+Android Version: 11
+
+==== 2021-03-12 =====
+- Initial Official Build
