@@ -24,3 +24,16 @@ Android Version: 11
 - April Security Patch
 - Source Side Changes
 - Misc Fixes & Improvements
+
+==== 2021-05-09 =====
+- May Security Patch
+- Enforcing + encrypted
+- Fixed Offline Charging animation
+- Address more Denials
+- Added Notch-killer overlay (Settings-> Display -> Cutout-> Notch-Killer)
+- More RAM optimization
+- Define rounded corners
+- Allow all apps to use smart replies 
+- Update GCam Go to v1.9 from Greatness
+- Source Side Changes
+- Misc Fixes & Improvements
