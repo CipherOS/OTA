@@ -13,3 +13,15 @@ Android Version: 11
 - Fixed late network registration.
 - Disabled Blurs by default 
 - Many more performance improvements
+
+==== 2021-06-15 =====
+- June security patch 
+- fixed location + Hotspot turn off issue
+- Updated Audio, ADSP, DSP, Voice blobs from LA.UM.9.6.2.r1-03600-89xx.0
+- recompiled BSP's thermal-engine with correct thermal sensors for msm8953 k4.9 from LA.UM.9.6.2.r1-03600-89xx.0
+- Updated Audio HAL from LA.UM.9.6.2.r1-03600-89xx.0
+- Upstreamed Audio configs and xml to LA.UM.9.6.2.r1-03600-89xx.0
+- [TEST Change] Applied some mixer path changes from Daisy (devices share same audio card so why not)
+- Switched to Google's LMKD configuration and ditched CAF's kernel LMK driver
+- fixed memory management issues
+- fixed heating issues

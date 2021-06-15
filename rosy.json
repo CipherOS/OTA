@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1621269582",
- "filename": "CipherOS-1.5-CRYPTO-20210517-1642-rosy-OFFICIAL-STABLE-VANILLA.zip",
- "id": "39b71df325b5651fd65d8b28e96f0665",
+ "datetime": "1623745600",
+ "filename": "CipherOS-1.7-ASTRA-20210615-0829-rosy-OFFICIAL-VANILLA.zip",
+ "id": "e75aea36a3c0f155c72753ff379063af",
  "romtype":"STABLE",
- "size": 711983104,
- "url": "https://netix.dl.sourceforge.net/project/cipheros/CRYPTO/rosy/CipherOS-1.5-CRYPTO-20210517-1642-rosy-OFFICIAL-STABLE-VANILLA.zip",
- "version": "1.5-CRYPTO"
+ "size": "704262041",
+ "url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/rosy/CipherOS-1.7-ASTRA-20210615-0829-rosy-OFFICIAL-VANILLA.zip",
+ "version": "1.7-ASTRA"
 }
 ]
 }
