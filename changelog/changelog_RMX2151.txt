@@ -4,5 +4,9 @@ Device: realme 7 / Narzo 20 Pro
 Device maintainer: Ksauraj
 Android Version: 11
 
-==== 2021-04-21 =====
-- Initial Official Build
+==== 2021-06-14 =====
+- ROM source upstream to 1.7
+- Shifted to enforcing
+- Improved performance and stability
+- Misc Changes and fixes
+- Updated Realme Parts
