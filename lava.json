@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1615554417",
- "filename": "CipherOS-1.0-INFERNO-20210312-1841-lava-OFFICIAL-BETA.zip",
- "id": "b2c770c813d97b4538a62fb44f45c864",
- "romtype":"BETA+1",
- "size": 711983104,
- "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.0-INFERNO-20210312-1841-lava-OFFICIAL-BETA.zip",
- "version": "1.1-INFERNO"
+ "datetime": "1625043352",
+ "filename": "CipherOS-1.7-ASTRA-20210630-1431-lava-OFFICIAL-VANILLA.zip",
+ "id": "57371f720c9228e23102d1619b238d05",
+ "romtype":"STABLE",
+ "size": 1181919228,
+ "url": "https://sourceforge.net/projects/cipheros/files/ASTRA/lava/CipherOS-1.7-ASTRA-20210630-1431-lava-OFFICIAL-VANILLA.zip/download",
+ "version": "1.7-ASTRA"
 }
 ]
 }
