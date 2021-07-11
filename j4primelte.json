@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623372275",
- "filename": "CipherOS-1.7-ASTRA-20210610-1129-j4primelte-OFFICIAL-VANILLA.zip",
- "id": "8e339280d99e91e4238faac8cf3c40d1",
+ "datetime": "1625993268",
+ "filename": "CipherOS-1.7-ASTRA-20210711-0850-j4primelte-OFFICIAL-VANILLA.zip",
+ "id": "a472a47ff6ba2406ab75482eb9fd9916",
  "romtype":"STABLE",
- "size": 557841731,
- "url": "https://master.dl.sourceforge.net/project/cipheros/ASTRA/j4primelte/CipherOS-1.7-ASTRA-20210610-1129-j4primelte-OFFICIAL-VANILLA.zip",
+ "size": "586725820",
+ "url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/j4primelte/CipherOS-1.7-ASTRA-20210711-0850-j4primelte-OFFICIAL-VANILLA.zip",
  "version": "1.7-ASTRA"
 }
 ]
