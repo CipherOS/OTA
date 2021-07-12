@@ -18,3 +18,15 @@ Android Version: 11
 - Fixed headphone volume buttons in call
 - Update Auto Brightness Overlays
 - More Underhood Changes
+
+==== 2021-07-12 ====
+- Bump Redfin fingerprint to july
+- Update blobs from daisy V11.0.20.0.QDLMIXM
+- Don't pin launcher app in memory
+- Don't pin camera app in memory
+- Increase ZRAM size to 2GB
+- Remove USE_XML_AUDIO_POLICY_CONF
+- Enable zram-writeback job
+- Nuked data migration scripts
+- Enable Smooth Streaming for secure video playback
+- More Underhood Changes

@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623381576",
- "filename": "CipherOS-1.7-ASTRA-20210611-0926-ysl-OFFICIAL-VANILLA.zip",
+ "datetime": "1626049226",
+ "filename": "CipherOS-1.7-ASTRA-20210712-0623-ysl-OFFICIAL-VANILLA.zip",
  "id": "7024de0a1e95204683694ea1d3a94b6d",
  "romtype":"STABLE",
- "size": 763734885,
- "url": "https://altushost-swe.dl.sourceforge.net/project/cipheros/ASTRA/ysl/CipherOS-1.7-ASTRA-20210611-0926-ysl-OFFICIAL-VANILLA.zip",
+ "size": 785730885,
+ "url": "https://sourceforge.net/projects/cipheros/files/ASTRA/ysl/CipherOS-1.7-ASTRA-20210712-0623-ysl-OFFICIAL-VANILLA.zip",
  "version": "1.7-ASTRA"
 }
 ]
