@@ -13,3 +13,9 @@ Android Version: 11
 - 5th June Security Patch
 - Google Camera included by default
 - Updated Xiaomi Parts
+
+==== 2021-07-13 =====
+- Enforcing Build
+- Updated XiaomiParts
+- Introducing New Cipher Shades Wallpaper App
+- 5th July Security Patch Merged

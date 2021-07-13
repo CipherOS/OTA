@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623568136",
- "filename": "CipherOS-1.7-ASTRA-20210613-1109-lavender-OFFICIAL-GAPPS.zip",
- "id": "0c18e0b8ab315ccc78deeb44579b6e46",
+ "datetime": "1626117006",
+ "filename": "CipherOS-1.7-ASTRA-20210712-2310-lavender-OFFICIAL-GAPPS.zip",
+ "id": "2e1e4870eb0b74193c55011a7e21606b",
  "romtype":"STABLE",
- "size": 1251168806,
- "url": "https://master.dl.sourceforge.net/project/cipheros/ASTRA/lavender/CipherOS-1.7-ASTRA-20210613-1109-lavender-OFFICIAL-GAPPS.zip",
+ "size": 1249110700,
+ "url": "https://master.dl.sourceforge.net/project/cipheros/ASTRA/lavender/CipherOS-1.7-ASTRA-20210712-2310-lavender-OFFICIAL-GAPPS.zip?viasf=1",
  "version": "1.7-ASTRA"
 }
 ]
